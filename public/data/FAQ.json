@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the Note Web App?",
+    "answer": "The Note Web App is a simple and fast platform that allows you to create, edit, organize, and store your notes securely in one place."
+  },
+  {
+    "question": "Do my notes save automatically?",
+    "answer": "No, notes are not saved automatically. You need to click the save button to store your changes."
+  },
+  {
+    "question": "Can I access my notes on different devices?",
+    "answer": "Absolutely. As long as you log in with your account, your notes will sync across all your devices."
+  },
+  {
+    "question": "Is my data secure?",
+    "answer": "Yes, your notes are stored securely using modern encryption and protected behind authenticated access."
+  },
+  {
+    "question": "Can I categorize or group my notes?",
+    "answer": "Yes, you can organize your notes using tags depending on your preferred workflow."
+  }
+]

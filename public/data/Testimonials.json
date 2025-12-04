@@ -1,0 +1,32 @@
+[
+  {
+    "blockquote": "I absolutely love this Notes web app! It keeps all my ideas organized and saves me so much time.",
+    "name": "Olivia Parker",
+    "rating": 5,
+    "image": "/images/avatar/avatar-1.jpg"
+  },
+  {
+    "blockquote": "This web app makes writing notes so easy and efficient. I can organize my work, school, and personal projects effortlessly every day.",
+    "name": "Sophia Martinez",
+    "rating": 4,
+    "image": "/images/avatar/avatar-2.jpg"
+  },
+  {
+    "blockquote": "A game-changer for my daily workflow. Quick, reliable, and intuitive, it helps me stay focused and never miss any important notes.",
+    "name": "Liam Thompson",
+    "rating": 5,
+    "image": "/images/avatar/avatar-3.jpg"
+  },
+  {
+    "blockquote": "I can organize all my notes efficiently, track tasks, and easily access everything I need. This app makes planning much smoother.",
+    "name": "Ethan Williams",
+    "rating": 4,
+    "image": "/images/avatar/avatar-4.jpg"
+  },
+  {
+    "blockquote": "Finally, an app that keeps all my notes in one place. It’s fast, secure, and perfect for staying organized daily.",
+    "name": "Ava Johnson",
+    "rating": 5,
+    "image": "/images/avatar/avatar-5.jpg"
+  }
+]

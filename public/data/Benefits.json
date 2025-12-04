@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Real-Time Sync",
+    "description": "Keep your notes updated instantly across all your devices — no refreshing, no delays.",
+    "icon": "RefreshCcw"
+  },
+  {
+    "title": "Organized Workspace",
+    "description": "Group notes by folders, tags, or categories so you always know where everything is.",
+    "icon": "Folders"
+  },
+  {
+    "title": "Smart Search",
+    "description": "Find any note in seconds using powerful full-text search and filters.",
+    "icon": "Search"
+  },
+  {
+    "title": "Secure & Private",
+    "description": "Your notes stay yours — protected with encrypted storage and secure access.",
+    "icon": "Lock"
+  },
+  {
+    "title": "Fast & Lightweight",
+    "description": "A distraction-free interface designed for speed, letting you jot ideas instantly.",
+    "icon": "Zap"
+  },
+  {
+    "title": "Easy to Use",
+    "description": "Zero learning curve — start writing, organizing, and storing notes from day one.",
+    "icon": "Hand"
+  }
+]
