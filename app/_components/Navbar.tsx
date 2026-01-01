@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
 import Button from "../_ui/Button";
 import Logo from "../_ui/Logo";
+import Link from "next/link";
 
 export default function Navbar() {
   const [isVisible, setIsVisible] = useState(true);
@@ -134,7 +135,8 @@ export default function Navbar() {
             </ul>
           </nav>
 
-          <div
+          <Link
+            href="/login"
             className={`pb-8 transition-all duration-300 ${
               isMobileMenuOpen
                 ? "opacity-100 translate-y-0"
@@ -145,7 +147,7 @@ export default function Navbar() {
             }}
           >
             <Button>Get Started</Button>
-          </div>
+          </Link>
         </div>
       </div>
     </>

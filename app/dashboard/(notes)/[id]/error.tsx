@@ -1,6 +1,7 @@
 "use client";
 
 import { useRouter } from "next/navigation";
+// import Button from "./_ui/Button";
 
 interface GlobalErrorProps {
   error?: Error;
@@ -21,14 +22,14 @@ export default function GlobalError({ error, reset }: GlobalErrorProps) {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center h-screen text-center gap-4">
-      <h1 className="text-4xl font-bold text-red-600">
+    <div className="flex flex-col items-center justify-center text-center gap-4">
+      <h1 className="text-2xl font-bold text-red-600">
         500 - Something went wrong
       </h1>
       <p className="text-dark-gray">
         {error?.message || "An unexpected error occurred. Please try again."}
       </p>
-      <button onClick={handleRetry}>Try Again</button>
+      {/* <Button onClick={handleRetry}>Try Again</Button> */}
     </div>
   );
 }

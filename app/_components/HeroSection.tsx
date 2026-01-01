@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Button from "@/app/_ui/Button";
 import { CreditCard } from "lucide-react";
+import Link from "next/link";
 
 export default function HeroSection() {
   return (
@@ -34,7 +35,10 @@ export default function HeroSection() {
           Eliminate scattered documents and lost ideas using smart organization
           that arranges every note exactly where it belongs.
         </p>
-        <Button>Get Started For Free</Button>
+        <Link href="/login">
+
+          <Button>Get Started For Free</Button>
+        </Link>
         <span className="flex items-center gap-2 text-sm text-neutral-600 mt-2.5">
           <CreditCard className="text-blue-light" />
           No Credit Card Required
